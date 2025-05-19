@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "👋🏼 Hello there, I'm Boris!"
+title: "👋🏼 Hello there, I'm Rizwan!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,14 +10,14 @@ redirect_from:
 
 
 
-![Illustration of combining vision and language modalities](/images/image_to_text_vis.png){: .align-right width="300px"}
-👨🏻‍💻 I'm a final year graduate student at the TU Berlin.
+![Illustration of phytoremediation using plants](images/May 19, 2025, 09_25_39 AM.png){: .align-right}
+👨🏻‍💻 I'm a final-year graduate student at Nankai University.
 
-🔬 My research interests are in bridging vision and language modalities and Self-Supervised Learning!
+🔬 My research interests are in using plants for bioremediation!
 
-📚 I'm currently working towards my Master's Thesis in the field of Vision-Language-Modelling.
+📚 I'm currently performing experiments & analysing data to write research papers.
 
-📽️ I am also interested in assisting others on their path in the world of Machine Learning and academia.
+🎮🚁 Beyond research, I volunteer with The Photography & Drone Association at Nankai University!
 
 # Selected Experience
 
@@ -33,10 +33,8 @@ To accompany this work, I have submitted a blog post to the **ICLR** Blogposts T
 
 Feel free to look at my specific [portfolio entry](https://sudo-boris.github.io/portfolio/RCPPO/).
 
-## 👨🏻‍🔬 Professional Experience
-Currently I am working as a **Student Researcher** at the Reliable Multimodal AI Lab at the TU Darmstadt under the supervision of Prof. Marcus Rohrbach working on **Generative Video-Language Modelling**.
-Additionally, I have professional experience working as an **Applied Machine Learning Student Researcher** at the Fraunhofer Heinrich Hertz Institute. \
-There I worked on dynamic traffic flow forecasting using Graph Neural Networks.
+ 👨🏻‍🔬 Professional Experience
+Currently I am working as a **Student Researcher** at the Key Laboratory of pollution Processes and Environmental Criteria at Nankai University under the supervision of Prof. Liu Jianv working on **Phytoremediation using ornamental & aquatic plants**.
 
 ## 📚 Teaching and Community Contributions
 To further contribute to the Machine Learning community, I have a [YouTube](https://www.youtube.com/@borismeinardus) and [Medium](https://medium.com/@boris.meinardus) channel where I publish educational Machine Learning content.
