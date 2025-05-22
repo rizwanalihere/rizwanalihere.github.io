@@ -2,7 +2,7 @@
 main:
   - title: "CV"
     # url: /cv/
-    url: files/Rizwan ALI PhD CV.pdf
+    url: /files/Rizwan ALI PhD CV.pdf
     
   - title: "Gallery"
     url: /Photos/
